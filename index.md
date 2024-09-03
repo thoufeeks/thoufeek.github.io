@@ -1,52 +1,34 @@
-# Thoufeek S
+Please Don't Just Say Hello In Chat
+TL;DR
+Modern chat communication should be done in a way that saves time for all participants and enables an efficient, asynchronous exchange of information. Don't expect an answer if you just write "Hello" in chat. Don't call someone out of the blue. Instead, phrase a message that allows your chat partners to provide a meaningful response as soon as they allocate time to read and answer your message.
 
-## Avoid Starting Conversations with Just “Hello”
+Chat Etiquette
+2010-07-19 12:32:12 you: Hello
+2010-07-19 12:32:15 co-worker: Hi.
+# CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
+2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
+2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
+It's as if you called someone on the phone and said "Hello!" and then put them on hold!
 
-### Summary
-In modern digital communication, it’s important to respect everyone’s time by being concise and direct. Starting a chat with only “Hello” and waiting for a response before stating your purpose can be inefficient and interruptive. Instead, immediately include your question or topic to facilitate quicker and more productive conversations.
+Please do this instead:
 
-### Effective Chat Practices
+2010-07-19 12:32:12 you: Hello -- I'm working on [something] and I'm trying to do [etc...]
+2010-07-19 12:33:32 co-worker: [answers question]
+Note that you get help minutes sooner, and you don't make them wait. Instead, the co-worker can start thinking about your question right away!
 
-#### Inefficient Approach:
-```plaintext
-2023-09-03 09:15:00 You: Hello
-2023-09-03 09:17:30 Colleague: Hi, how can I help you?
+You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
 
-COLLEAGUE WAITS FOR YOUR RESPONSE
+The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec ?", "yt?" and "ping". Just ask the question!
 
-2023-09-03 09:20:45 You: I’m having trouble with [specific issue]. Could you assist me?
-2023-09-03 09:25:10 Colleague: Sure, here’s what you can do…
+If you feel it's brusque to simply say "Hi" and ask the question, you can do something like this:
 
-Efficient Approach:
+2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question. I'm working on [something] and I'm trying to do [etc...]
+Additionally, asking your question before getting a reply allows asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
-2023-09-03 09:15:00 You: Hi, I’m encountering an issue with [specific problem]. Could you help me troubleshoot?
-2023-09-03 09:17:30 Colleague: Of course, let’s look into it…
+Call Etiquette
+Don't call someone out of the blue. Respect that your desired call partner might be busy and in flow. Calling someone means you request immediate, full attention, interrupting any other activity. Some people like to probe with an initial "hello" to verify whether the presence status shown is true, hoping they can determine whether the recipient is near a device, then will immediately follow up with a call. Don't do that either. If someone is able and willing to answer a chat message, it does not mean that they are also available for a voice or video call.
 
+Instead of sending a call probe, or asking "hey, do you have time for a call?" (which is better but not great), you can try something like this:
 
-Why This Matters:
-Saves Time: Jumping straight to the point allows the other person to understand your needs immediately and provide assistance without unnecessary back-and-forth.
-Respects Availability: The recipient can respond at their earliest convenience with all the information they need, making asynchronous communication more effective.
-Enhances Clarity: Providing context upfront reduces misunderstandings and streamlines the problem-solving process.
-
-Polite and Direct Example:
-
-2023-09-03 09:15:00 You: Good morning! I’m working on [project/task] and ran into [issue]. Do you have a moment to help me out?
-
-This approach remains courteous while efficiently conveying your message.
-
-Appropriate Use of Calls
-Initiating calls without prior notice can be disruptive. Here’s how to handle calls respectfully:
-
-Avoid This:
-
-You initiate an unexpected call without prior messaging.
-
-Do This Instead:
-
-2023-09-03 10:00:00 You: Hi, when you have 15 minutes, could we have a quick call to discuss [topic]?
-
-
-Benefits:
-Respects Time: Allows the recipient to prepare and schedule the call at a convenient time.
-Provides Context: The recipient knows what to expect and can come prepared for the discussion.
-Reduces Interruptions: Minimizes unexpected disruptions to the recipient’s workflow.
+2020-07-08 12:32:12 you: Hi - do you have X min for a quick call to talk about XYZ? [etc...]
+This does three things: it time bounds the request, it gives the recipient some context, and it helps you remember what you wanted to talk about if the recipient can't or doesn't respond until later.
