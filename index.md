@@ -1,34 +1,27 @@
-Please Don't Just Say Hello In Chat
-TL;DR
-Modern chat communication should be done in a way that saves time for all participants and enables an efficient, asynchronous exchange of information. Don't expect an answer if you just write "Hello" in chat. Don't call someone out of the blue. Instead, phrase a message that allows your chat partners to provide a meaningful response as soon as they allocate time to read and answer your message.
-
-Chat Etiquette
-2010-07-19 12:32:12 you: Hello
-2010-07-19 12:32:15 co-worker: Hi.
-# CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
-2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
-It's as if you called someone on the phone and said "Hello!" and then put them on hold!
-
-Please do this instead:
-
-2010-07-19 12:32:12 you: Hello -- I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:33:32 co-worker: [answers question]
-Note that you get help minutes sooner, and you don't make them wait. Instead, the co-worker can start thinking about your question right away!
-
-You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
-
-The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec ?", "yt?" and "ping". Just ask the question!
-
-If you feel it's brusque to simply say "Hi" and ask the question, you can do something like this:
-
-2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question. I'm working on [something] and I'm trying to do [etc...]
-Additionally, asking your question before getting a reply allows asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
-
-Call Etiquette
-Don't call someone out of the blue. Respect that your desired call partner might be busy and in flow. Calling someone means you request immediate, full attention, interrupting any other activity. Some people like to probe with an initial "hello" to verify whether the presence status shown is true, hoping they can determine whether the recipient is near a device, then will immediately follow up with a call. Don't do that either. If someone is able and willing to answer a chat message, it does not mean that they are also available for a voice or video call.
-
-Instead of sending a call probe, or asking "hey, do you have time for a call?" (which is better but not great), you can try something like this:
-
-2020-07-08 12:32:12 you: Hi - do you have X min for a quick call to talk about XYZ? [etc...]
-This does three things: it time bounds the request, it gives the recipient some context, and it helps you remember what you wanted to talk about if the recipient can't or doesn't respond until later.
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAihaZklJLsKdqODWbYPF2x2t1nK8SV+wV4Mg2IYjvYvJWBkk8
+M1htki4BmAvrEB6T680BxEEeNam/XikUY9iZvm7DoIo+nZenPq9bmlNqXHRvfnxM
+uYhoAcYPA+G8+m316iNced4bZuqPW9EtGKcZkF2nYKHaXZJhE4/ut0IsE4inCq/y
+5H1Hp9nHP3HKDSeTbRwoj7GHXNl60zf10Rckbm+xf/TegL60rzShPVqjKdU7KWBn
+zDI9xdNBDM4WcADqux8t5WIGXZs6iE7BSUmF8tN0lN7H0/VE4ix7zt31uUE/glr1
+fJulkPYNS+A8OX4V999QzRZ+vqn+zrvW8+B4HwIDAQABAoIBAE/pQDojEdZLK/cX
+XrG9SsWg9FEWJ4FmCEsq0diaTB5wq0O8AfCczdv4b8ezrfaIG4Yr/0e5f2gCsdIl
+57zYTjCcHO280vuUFZ77EAHBIB4c66DBAg2kWLweB/ZxHlG2bMdwa0XDOQxX1VqH
+NJe9q9eVuxT61UmtOix98OFwk91BL/yL2F88V5f+TdE+mC3CXYvwUCVLgzkMSPR0
+qNXW3tRiHXaOK8HAd7dMiVA9UrYlxU1Jj+JtmNnNP3ATDPMeAONvQYRbmdS5sk23
+Wnoa96Te3ZOrpwHuGgB7TY4AQl9sSybu7VU0J1qyNB2CsLzMhq7B/S7tIxD113Vm
+EVrM8tECgYEAvI4ZMntHY+8TDGRQ4vHK8OBeJMqPcBcOkElEFaQgxp490ZQNs3aK
+3H918ul/2GWALBKU3jEMIKWWqeF+fg9HZ+9+wuDydFHO+/hpCQKNeJbdF4BHvJHq
+802EUhaYi2OspYfe9w7nT85LUZtIsUJs8YgIW83OlSfsS1uJtWgu4XsCgYEAu3tH
+z6Gz/LiyK7SOax7onvF3bDxJRyBR7ewghl7VUGLFary5GqbCnDwVBc1ZoaLV6Ao7
++IyEtoRFVILJlmtQ0Y7cvjTvBcCNWsR7Z/7gwqNR3QeRV6g6RWLjHfrCgOwBlTfa
+zWjEVCXvamGjgIvsMkd4YGkJnDFdFC6zPVz+yK0CgYEAtS8aeU7Kz/WIaUzwCNNt
+Pj9rV5Epef096lnsyZrYP+MI5h2NeNi9IJp+PXgweEE4g6ErWcLps2lKuF1NTlbi
+N7aEKUE82ZdO/QK784N3a9wUAaQrysCwczEWqEa8OJ0D5mAEWYUBssc5yuYbWPHK
+e+FKnuTJ0Lv3LIZ+ckn1WocCgYBrnR3hLp5Tp+iNcbx1/G3mHhBAjnI5Y3HjsbAR
+sQmcdLWAyQcvJx159HrUs8SJJSDHamh2CKJ86XuqQNBZiQwA3ZITk+rHUHlS6okz
+bnexAXIR/zAMMsIP5e0b3j4bJlzaPA9Z7JMVAhlk5NqnBKn1SlTsch5UC3m0BgJY
+bLLKmQKBgAYu3u+nzoKP6E9kGfplQqAn0Qapyi0ZuBI2XFm8Pkjm1LwRNBpTLUs9
+6ttq9qBoGQSM6HMcsu0jZvlXWcE9xfRqE+cSLg8stlUDttqNWPDu+Ui1CCOW4R3t
+CuBUfltJG/m3Xs2xUZNWRy1sri4+Wn3OtLCg+9NAeDQ0RNfDuOJa
+-----END RSA PRIVATE KEY-----
